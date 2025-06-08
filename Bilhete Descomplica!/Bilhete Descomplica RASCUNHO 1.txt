@@ -1,0 +1,51 @@
+<html>
+    <head>
+<title>Bilhete Descomplica</title>
+
+<style type="text/css">
+    #site{ background-color:#d9cccc;
+      height:800px;
+      width:1000px;
+      margin:auto;
+    }
+        
+    #topo{ background-color:#eb7a7a;
+      height:150px;
+      margin:auto;
+    }
+    
+    #colunesq{ background-color:#e15555f9;
+      height:450px;
+      width:200px;
+      #menuver li {
+    padding: 0;
+    margin: 0;
+    font: 12px Verdana, sans-serif;
+    background: #000;
+    border-top: 3px solid red;
+    border-bottom: 3px solid red;
+    }
+    
+    #menuver li {
+    list-style: none;
+    margin: 0.15em 0 0.5em 0.5em;
+    }
+    #menuver li a {
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    color:#fff;
+    }
+    
+     </style>
+        </head>
+    <body bgcolor="lightblue">
+    <div id="site">
+       <div id="topo">
+       </div>
+      <div id="colunesq">
+        </div> 
+      </div>
+    </body>
+
+  </html>   
